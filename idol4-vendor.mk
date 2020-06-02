@@ -711,17 +711,14 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol4/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/tcl/idol4/proprietary/framework/imscmlibrary.jar:system/framework/imscmlibrary.jar \
     vendor/tcl/idol4/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
-    vendor/tcl/idol4/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/tcl/idol4/proprietary/framework/rcsimssettings.jar:system/framework/rcsimssettings.jar \
     vendor/tcl/idol4/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/tcl/idol4/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/tcl/idol4/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/tcl/idol4/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/tcl/idol4/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/tcl/idol4/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/tcl/idol4/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/tcl/idol4/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/tcl/idol4/proprietary/lib64/libstagefright_soft_flacdec.so:system/lib64/libstagefright_soft_flacdec.so \
     vendor/tcl/idol4/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
     vendor/tcl/idol4/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/tcl/idol4/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
